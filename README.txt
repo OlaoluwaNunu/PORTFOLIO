@@ -1,31 +1,11 @@
-Solid State by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+As a Data Scientist specialising in Human Resources, I harness the power of data to drive strategic decision-making and optimize HR processes with a solid background in Statistical Analysis, Data Visualization and Machine Learning. 
 
+I transform complex data into actionable insight that enhances Talent Acquisition, Employee Engagement and Workforce Planning.
 
-After a somewhat extended break from HTML5 UP (to work on a secret-ish new project --
-more on that later!) I'm back with a brand new design: Solid State, a slick new multi-
-pager that combines some of the ideas I've played with over at Pixelarity with an "angular"
-sort of look. Hope you dig it :)
+Throughout my career, I have successfully implemented predictive analytics to forecast hiring needs, develop models to reduce employee turnover and crafted strategies to improve workplace diversity and inclusion.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+My expertise in leveraging tools like Python, SQL, DAX, and Business Intelligence tools like Power BI & Tableau has enabled organizations to achieve measurable improvement in operation efficiency and employee satisfaction.
 
-(* = not included)
+I am passionate about bridging the gap between Data Science and Human Resources, continually seeking innovative ways to seek data to solve HR challenges. 
 
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Let’s connect and explore how data can transform your HR Strategy.
